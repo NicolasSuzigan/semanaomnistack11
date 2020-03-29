@@ -6,6 +6,7 @@ O projeto consiste no cadastramento de ONGS e em seus casos que precisam de ajud
 No mobile qual quer pessoa pode se tornar um HEROI para a qualquer ONG, o usuário tem acesso a todos os casos e descrições para poder escolher um de seu interesse e ajudar.
 <br><br>
 <img src="https://user-images.githubusercontent.com/28414038/77839254-7821eb80-7151-11ea-9595-b5e6bd1adcf8.png" height="300" width="400">
+<img src="https://user-images.githubusercontent.com/28414038/77839362-49f0db80-7152-11ea-8d35-5fc7fa88dd26.png" height="300" width="400">
 <br>
 
 <h2>Tecnologias envolvidas</h2>
